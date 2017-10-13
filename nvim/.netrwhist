@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/tomoharu'
+let g:netrw_dirhist_2='/Users'
+let g:netrw_dirhist_3='/Users/tomoharu'
+let g:netrw_dirhist_4='/Users/tomoharu/.vim'
+let g:netrw_dirhist_5='/Users/tomoharu/.vim/plugged'
+let g:netrw_dirhist_6='/Users/tomoharu/.vim/plugged/ltools.vim'
+let g:netrw_dirhist_7='/Users/tomoharu/.vim/plugged/ltools.vim/autoload'
